@@ -88,6 +88,7 @@ console.log("heyy",user.rows)
     "setime",
     5 * 60 * 1000
   );
+  ""
   const timeElapsed =
     new Date().getTime() - verificationTime.rows[0].currenttime;
   console.log(timeElapsed);
