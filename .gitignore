@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
-controller/
-service/
+src/controller/
+src/service/
 uploads/
 
 # Logs
